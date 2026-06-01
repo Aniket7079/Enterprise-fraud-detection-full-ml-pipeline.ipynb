@@ -5,7 +5,7 @@ We also trained the Machine learning model use the best and good model whos is g
    
 Dataset Explanation :-
   
-This dataset simulates enterprise-level financial transaction data designed   
+This dataset simulates enterprise-level financial transaction data desineged   
 for fraud detection research and machine learning development.
 It contains 200,000 transactions spanning 4 months (January–April 2025),  
 with a realistic fraud rate of approximately 2.8%.
