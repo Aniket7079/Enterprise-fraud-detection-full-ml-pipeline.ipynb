@@ -22,7 +22,7 @@ model degradation scenarios.
 Features:
 
 Customer behavioral profiles (credit score, account age, spending history)
-Real-time velocity features (transaction counts over 1h, 24h, 7d windows)
+Real-time velocity features (transaction counts over 1h, 24h, 7d windows) 
 Geolocation signals (distance from home, foreign transactions, high-risk countries)
 Device fingerprinting (VPN/Tor detection, new device flags)
 Graph/network features (fraud rings, shared device counts)
